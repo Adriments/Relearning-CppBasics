@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Episode13.cpp" />
     <ClCompile Include="Episode2.cpp" />
     <ClCompile Include="Episode3.cpp" />
     <ClCompile Include="Episode4.cpp" />
