@@ -142,6 +142,7 @@
     <ClCompile Include="Episode13.cpp" />
     <ClCompile Include="Episode19.cpp" />
     <ClCompile Include="Episode2.cpp" />
+    <ClCompile Include="Episode20.cpp" />
     <ClCompile Include="Episode3.cpp" />
     <ClCompile Include="Episode4.cpp" />
   </ItemGroup>
